@@ -1,0 +1,3 @@
+[submodule "iosApp"]
+	path = iosApp
+	url = https://github.com/JyunTimLu/KotlinNative-iOS.git
